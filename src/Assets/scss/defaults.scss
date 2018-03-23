@@ -1,0 +1,57 @@
+.mainBody {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.urlToImage {
+    max-height: 200px;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+    transition-delay: 0.2s;
+    transition-timing-function: ease-in-out;
+    -webkit-box-shadow: 1px 4px 70px 15px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 4px 70px 15px rgba(0,0,0,0.75);
+    box-shadow: 1px 4px 70px 15px rgba(0,0,0,0.75);
+}
+
+.grid-container {
+    font-family: 'Raleway', sans-serif;
+    padding: 30px;
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+    grid-auto-rows: 40em;
+    grid-gap: 50px;
+  }
+
+.card {
+    -webkit-box-shadow: 1px 4px 39px -1px rgba(0,0,0,0.75);
+        -moz-box-shadow: 1px 4px 39px -1px rgba(0,0,0,0.75);
+        box-shadow: 1px 4px 39px -1px rgba(0,0,0,0.75);
+    .card-body {
+        
+
+        .badge {
+            bottom: 0%;
+            width: 100%;
+            padding: 6px;
+        }
+        .badge:hover {
+            transform: scale(1.1);
+            transition-delay: 0.1s;
+            transition-duration: 0.5s;
+            transition-timing-function: ease-in-out;
+        }
+        .card-title-author {
+            color: #2196F3;
+        }
+    }
+}
+
+.navbar {
+    padding: 15px;
+}
+
