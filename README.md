@@ -1,8 +1,9 @@
-# wittynews
+# WittyNews
 Front end news feed web application
 
 ## Getting started
 WittyNews is a front-end news feed web application. The web app is based on React.js front end web framework. It fetches news data from `newsapi.org` and displays news in cards with images, title, author, description and a badge link for more information about the news.
+The project has implementations of JavaScript ES6 features, Bootstrap(CSS Framework), SASS(CSS Preprocessor) and Gulp. WittyNews has got real time updates of news events.
 
 ## Skills used
 `React.js` `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript` `Gulp` `Git`
