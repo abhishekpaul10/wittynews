@@ -5,4 +5,4 @@ News feed web application
 WittyNews is a front-end news feed web application.
 
 ## Skills used
-`Node.js` `Express`
+`React.js` `News API` `HTML5` `CSS3` `SASS` `Bootstrap` `JavaScript`
