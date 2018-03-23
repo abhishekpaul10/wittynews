@@ -14,9 +14,9 @@ WittyNews is a front-end news feed web application. The web app is based on Reac
 ![alt text](https://github.com/abhishekpaul10/wittynews/blob/master/screenshots/pc2.png "PC Screenshot 2")
 
 ### Mobile View:
-![alt text](https://github.com/abhishekpaul10/wittynews/blob/master/screenshots/mobile1.PNG "Mobile Screenshot 1")
+![alt text](https://github.com/abhishekpaul10/wittynews/blob/master/screenshots/mobile1.PNG "Mobile Screenshot 1") ![alt text](https://github.com/abhishekpaul10/wittynews/blob/master/screenshots/mobile2.PNG "Mobile Screenshot 2")
 
-![alt text](https://github.com/abhishekpaul10/wittynews/blob/master/screenshots/mobile2.PNG "Mobile Screenshot 2")
+
 
 
 
